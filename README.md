@@ -241,3 +241,7 @@ Hello from http://localhost:3000
 ```
 
 Visit `http://localhost:3000/api-docs` for the Swagger documentation interface.
+
+## Movtivation
+
+In this lesson I learned how to build a secure and well-structed REST API using Express.js and TypeScript wich have been very fun and educational for me. I had an issue when I first used mysql workbench after i had problem with my mac. It looked me out from workbench program after i rebooted my mac and had to uninsatll and reinstall all the program again to make it work but then i have learn how fix if it would happned again. And it had been fun and intressting for me to learn about. I`ve think I enjoyed back-end devlopment more then I exepected so much that I will continue to learn more about it in the future. And my try to become a fullstack developer would be a great goal for me.
